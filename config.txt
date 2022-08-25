@@ -1,0 +1,5 @@
+obshotkey = 'F10'
+
+processnames(SEPERATED BY NEW LINE):
+projectzomboid64.exe
+minecraft.exe
